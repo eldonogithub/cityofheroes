@@ -1,0 +1,1203 @@
+//Everlasting Base Directory Pop Menu
+//Version 20221123.01 (v1)
+//
+//Update Log:
+//
+//Version 20221122.01 (v1)  (by Teirusu)
+// - Initial version
+//
+//Credit to the Homecoming - Everlasting Yellow Pages spreadsheet found below:
+// https://docs.google.com/spreadsheets/d/1Nw-npzUY2NGc6SFoHa1ByWw202gI8DlT0ZDTQwoR7YM/edit#gid=0
+// and https://homecoming.wiki/wiki/Everlasting_Base_List
+//
+Menu "EX"
+Title "Excelsior Bases"
+{
+	Menu "Victoria Secret Service - Hero"
+	{
+		Option "VICTORIA-9749"						"enterbasefrompasscode VICTORIA-9749"
+	}
+	Menu "Painfully Obvious - Villain"
+	{
+		Option "PAINFUL-25313"						"enterbasefrompasscode PAINFUL-25313"
+	}
+	Divider
+	Menu "Transit Hubs"
+	{
+		Menu "Cosmic Transport"
+		{
+		Option "COSMICTRANSPORT-6608"						"enterbasefrompasscode COSMICTRANSPORT-6608"
+		}
+		Menu "Nightwatch"
+		{
+		Option "NW-738"						"enterbasefrompasscode NW-738"
+		}
+		Menu "Peace"
+		{
+		Option "PEACE-883"						"enterbasefrompasscode PEACE-883"
+		}
+		Menu "Holy"
+		{
+		Option "HOLY-1610"				"enterbasefrompasscode HOLY-1610"
+		}
+	}
+}
+Menu "EL"
+Title "Everlasting Bases"
+{
+	Menu "Victoria Secret Service"
+	{
+		Option "VICTORIA-4264"						"enterbasefrompasscode VICTORIA-4264"
+	}
+	Divider
+	Menu "Transit Hubs"
+	{
+		Menu "Zone Everlasting"
+		{
+		// Popular - all functionally
+		Option "ZONE-8888"						"enterbasefrompasscode ZONE-8888"
+		}
+		Menu "Paragon Taxi Service"
+		{
+		// Functional:1  Looks:1 - all functionally
+		Option "Taxi-7985"						"enterbasefrompasscode Taxi-7985"
+		}
+		Menu "Vel's Folly"
+		{
+		// Functional:2  Looks:1 - all functionally
+		Option "VF-11508"						"enterbasefrompasscode VF-11508"
+		}
+		Menu "Central Distribution Network"
+		{
+		// Functional:1  Looks:2 - all functionally
+		Option "DISTRIBUTION-24347"				"enterbasefrompasscode DISTRIBUTION-24347"
+		}
+		Menu "Portal Corp RRN"
+		{
+		// Functional:1  Looks:2 - No buff
+		Option "portalme-7659"					"enterbasefrompasscode portalme-7659"
+		}
+		Menu "The Lighthouse Station"
+		{
+		// Functional:1  Looks:1 - No shard - Buff not easy to find
+		Option "HOPE-14269"						"enterbasefrompasscode HOPE-14269"
+		}
+		Menu "Everlasting Teleport"
+		{
+		// Functional:1  Looks:3 - all functionally
+		Option "ELTP-7670"						"enterbasefrompasscode ELTP-7670"
+		}
+		Menu "Ehattesaht"
+		{
+		Option "Ehattesaht-15652"				"enterbasefrompasscode Ehattesaht-15652"	
+		}
+		Menu "T.R.A.N.S.I.T. Authority"
+		{
+		// Functional:2  Looks:1 - No shard - No buff
+		Option "TRANSIT-7841"					"enterbasefrompasscode TRANSIT-7841"
+		}
+		Menu "Port2Anywhere"
+		{
+		// Functional:1  Looks:3 - No shard - No buff
+		Option "PORT2ANYWHERE-2769"				"enterbasefrompasscode PORT2ANYWHERE-2769"
+		}
+		Menu "Klown Town"
+		{
+		// Functional:2  Looks:2 - No shard - No merit
+		Option "TOWNOFKLOWN-16908"				"enterbasefrompasscode TOWNOFKLOWN-16908"
+		}		
+		Menu "Paragon Transit Authority"
+		{
+		// Functional:1  Looks:3 - No shard - No buff
+		Option "PTA-8113"						"enterbasefrompasscode PTA-8113"
+		}		
+	}
+	Divider
+	Menu "Commerical - Dining"
+	{
+		Menu "Dragons Cafe"
+		{
+		Option "DRAGONSCAFE-20744"				"enterbasefrompasscode DRAGONSCAFE-20744"	
+		}
+		Menu "Granny Victoria's Tea Room"
+		{
+		Option "TEATIME-17990"					"enterbasefrompasscode TEATIME-17990"	
+		}
+		Menu "Lyrick's"
+		{
+		Option "LYRICKS-10861"					"enterbasefrompasscode LYRICKS-10861"	
+		}
+		Menu "Pawhelion Rescue & Cafe"
+		{
+		Option "RESCUE-9424"					"enterbasefrompasscode RESCUE-9424"	
+		}
+		Menu "Red Light District"
+		{
+		Option "REDLIGHTDISTRICT-16218"			"enterbasefrompasscode REDLIGHTDISTRICT-16218"	
+		}
+//		Menu "Suprano's Pizza"  
+//		{
+//		Option "PIZZA-5477"						"enterbasefrompasscode PIZZA-5477"	
+//		}
+		Menu "Talos Key Lounge"
+		{
+		Option "Lounge-1871"					"enterbasefrompasscode Lounge-1871"	
+		}
+		Menu "The Drunk Duck"
+		{
+		Option "DRUNKDUCK-22149"				"enterbasefrompasscode DRUNKDUCK-22149"	
+		}
+		Menu "The Little Leaf"
+		{
+		Option "THELITTLELEAF-12093"			"enterbasefrompasscode THELITTLELEAF-12093"	
+		}
+	}
+	Menu "Commerical - Office"
+	{
+		Menu "14th Street Complex  - Abandoned area"
+		{
+		Option "14THSTREET-22701"				"enterbasefrompasscode 14THSTREET-22701"	
+		}
+		Menu "Collins Cybernetics"
+		{
+		Option "Collins-4493"					"enterbasefrompasscode Collins-4493"	
+		}
+		Menu "Hero Corps - Founders' Falls Branch"
+		{
+		Option "HeroCorps-127"					"enterbasefrompasscode HeroCorps-127"	
+		}
+		Menu "Mordecai's Paranormal Investigations"
+		{
+		Option "PHASMOPHOBIA-21646"				"enterbasefrompasscode PHASMOPHOBIA-21646"	
+		}
+		Menu "NiteOwl Investigations Agency"
+		{
+		Option "NITEOWL-6723"					"enterbasefrompasscode NITEOWL-6723"	
+		}
+		Menu "Omega Industries primary compound"
+		{
+		Option "OMEGA-1234"						"enterbasefrompasscode OMEGA-1234"	
+		}
+		Menu "PAWS Detective Agency"
+		{
+		Option "LAWDOGK9-4296"					"enterbasefrompasscode LAWDOGK9-4296"	
+		}
+		Menu "The Bulwark (The Assembly)"
+		{
+		Option "THEBULWARK-1305"				"enterbasefrompasscode THEBULWARK-1305"	
+		}
+	}
+	Menu "Commerical - Retail"
+	{
+		Menu "Croatoa Library and Observatory"
+		{
+		Option "LIBRARY-17957"					"enterbasefrompasscode LIBRARY-17957"	
+		}
+		Menu "Eddie's Books"
+		{
+		Option "BOOKS-22720"					"enterbasefrompasscode BOOKS-22720"	
+		}
+		Menu "Hero Factory Gym"
+		{
+		Option "GYM-25035"						"enterbasefrompasscode GYM-25035"	
+		}
+		Menu "Karma Tattoos"
+		{
+		Option "KARMAINK-17026"					"enterbasefrompasscode KARMAINK-17026"	
+		}
+		Menu "Mall of Paragon"
+		{
+		Option "MALL-5912"						"enterbasefrompasscode MALL-5912"	
+		}
+		Menu "Paragon Galleria"
+		{
+		Option "Pshopping-13668"				"enterbasefrompasscode Pshopping-13668"	
+		}
+		Menu "Red Tiger Plaza"
+		{
+		Option "BKI-17071"						"enterbasefrompasscode BKI-17071"	
+		}
+		Menu "Sal's Secret Hero Tailoring Shop"
+		{
+		Option "SALS-24690"						"enterbasefrompasscode SALS-24690"	
+		}
+		Menu "Supernatural Solutions LLC"
+		{
+		Option "MSTMP-3753"						"enterbasefrompasscode MSTMP-3753"	
+		}
+		Menu "That Witch Was"
+		{
+		Option "TWW-22871"						"enterbasefrompasscode TWW-22871"	
+		}
+		Menu "The Curio Shop  (HQ of OMEN)"
+		{
+		Option "CURIOSSHOP-4920"				"enterbasefrompasscode CURIOSSHOP-4920"	
+		}
+		Menu "The Menagerie"
+		{
+		Option "MENAGERIE-16514"				"enterbasefrompasscode MENAGERIE-16514"	
+		}
+	}
+	Menu "Entertainment / Clubs"
+	{
+		Menu " 1 - C "
+		{	
+			Menu "666 Underground Avenue"
+			{
+			Option "Underground-2833"			"enterbasefrompasscode Underground-2833"
+			}
+			Menu "Afterhours 1"
+			{
+			Option "VICE-7008"					"enterbasefrompasscode VICE-7008"
+			}
+			Menu "Afterhours 2"
+			{
+			Option "VICE-9166"					"enterbasefrompasscode VICE-9166"
+			}
+			Menu "Antech"
+			{
+			Option "MARSBASE-3909"				"enterbasefrompasscode MARSBASE-3909"
+			}
+//			Menu "Beans n' Worms"
+//			{
+//			Option "beans-11224"				"enterbasefrompasscode beans-11224"
+//			}
+			Menu "Black Friday"
+			{
+			Option "BLACKFRIDAY-4066"			"enterbasefrompasscode BLACKFRIDAY-4066"
+			}
+			Menu "Boxfort"
+			{
+			Option "Boxfort-22555"				"enterbasefrompasscode Boxfort-22555"
+			}
+			Menu "Cheers"
+			{
+			Option "CHEERS-9599"				"enterbasefrompasscode CHEERS-9599"
+			}
+			Menu "Club Inferno"
+			{
+			Option "Inferno-11459"				"enterbasefrompasscode Inferno-11459"
+			}
+			Menu "Club Kyabakura"
+			{
+			Option "Kyabakura-15131"			"enterbasefrompasscode Kyabakura-15131"
+			}
+			Menu "Club Valhalla"
+			{
+			Option "Valhalla-4422"				"enterbasefrompasscode Valhalla-4422"
+			}
+		}
+		Menu " D - K "
+		{		
+			Menu "Dive Bar"
+			{
+			Option "DIVE-25355"					"enterbasefrompasscode DIVE-25355"
+			}
+			Menu "Eden's End"
+			{
+			Option "EDENSEND-17386"				"enterbasefrompasscode EDENSEND-17386"
+			}
+			Menu "Femmes Fatales"
+			{
+			Option "FATALES-13836"				"enterbasefrompasscode FATALES-13836"
+			}
+			Menu "Firemullet Groupies"
+			{
+			Option "FM-5401"					"enterbasefrompasscode FM-5401"
+			}
+			Menu "Gaulos Retreat"
+			{
+			Option "GAULOS-10594"				"enterbasefrompasscode GAULOS-10594"
+			}
+			Menu "Greenman Tavern"
+			{
+			Option "Greenman-3636"				"enterbasefrompasscode Greenman-3636"
+			}
+			Menu "Hannibal's Alehouse"
+			{
+			Option "Speakeasy-11963"			"enterbasefrompasscode Speakeasy-11963"
+			}
+			Menu "Joker's Wild"
+			{
+			Option "JOKERS-5378"				"enterbasefrompasscode JOKERS-5378"
+			}
+			Menu "Kelvin Club & Casino"
+			{
+			Option "KELVIN-12633"				"enterbasefrompasscode KELVIN-12633"
+			}
+		}
+		Menu " L - S "
+		{
+//			Menu "L.O.C.U.S.T. Isle"
+//			{
+//			Option "LOCUST-2931"				"enterbasefrompasscode LOCUST-2931"
+//			}
+			Menu "Oasis"
+			{
+			Option "Oasis-3471"					"enterbasefrompasscode Oasis-3471"
+			}
+			Menu "Party Plastique"
+			{
+			Option "Party-21804"				"enterbasefrompasscode Party-21804"
+			}
+			Menu "Pillow Fight Club"
+			{
+			Option "PILLOW-23733"				"enterbasefrompasscode PILLOW-23733"
+			}
+			Menu "Pocket D backrooms"
+			{
+			Option "BACKROOMS-13756"			"enterbasefrompasscode BACKROOMS-13756"
+			}
+			Menu "Pshard's"
+			{
+			Option "Pshards-10520"				"enterbasefrompasscode Pshards-10520"
+			}
+			Menu "Raven's Rest"
+			{
+			Option "RA7EN-5273"					"enterbasefrompasscode RA7EN-5273"
+			}		
+			Menu "Snide's Club"
+			{
+			Option "ELBar-1404"					"enterbasefrompasscode ELBar-1404"
+			}		
+			Menu "Space Disco"
+			{
+			Option "BALLROOM-13001"				"enterbasefrompasscode BALLROOM-13001"
+			}
+			Menu "Star Dancers"
+			{
+			Option "STARDANCERS-22629"			"enterbasefrompasscode STARDANCERS-22629"
+			}
+			Menu "Stormcage"
+			{
+			Option "Stormcage-3512"				"enterbasefrompasscode Stormcage-3512"
+			}
+		}
+		Menu " T - Z "
+		{
+			Menu "Texas Bar"
+			{
+			Option "Tex-8623"					"enterbasefrompasscode Tex-8623"
+			}
+			Menu "The 8-Ball"
+			{
+			Option "8BALL-5061"					"enterbasefrompasscode 8BALL-5061"
+			}
+			Menu "The Bibulous Burned Book Club"
+			{
+			Option "BBBC616-14297"				"enterbasefrompasscode BBBC616-14297"
+			}
+			Menu "The Black Cat"
+			{
+			Option "BLACKCAT-18688"				"enterbasefrompasscode BLACKCAT-18688"
+			}
+			Menu "The Dark Coven"
+			{
+			Option "DARKCOVEN-5519"				"enterbasefrompasscode DARKCOVEN-5519"
+			}		
+			Menu "The Dionysus Club"
+			{
+			Option "Dionysus-3739"				"enterbasefrompasscode Dionysus-3739"
+			}
+//			Menu "The Exchange"
+//			{
+//			Option "THEEXCHANGE-1404"			"enterbasefrompasscode THEEXCHANGE-1404"
+//			}
+			Menu "The Funplex"
+			{
+			Option "Funplex-11364"				"enterbasefrompasscode Funplex-11364"
+			}
+//			Menu "The Garden Amphitheatre"
+//			{
+//			Option "THEGARDEN-9387"				"enterbasefrompasscode THEGARDEN-9387"
+//			}
+			Menu "The Green Lotus Lounge"
+			{
+			Option "KUSH-9540"					"enterbasefrompasscode KUSH-9540"
+			}
+			Menu "The Last Judgement"
+			{
+			Option "JUDGMENT-21515"				"enterbasefrompasscode JUDGMENT-21515"
+			}
+			Menu "The Nine Circles / Gehenna"
+			{
+			Option "Virgil-6196"				"enterbasefrompasscode Virgil-6196"
+			}
+			Menu "The Penny Palace"
+			{
+			Option "Glitter-15236"				"enterbasefrompasscode Glitter-15236"
+			}
+			Menu "The Station"
+			{
+			Option "STATION-19116"				"enterbasefrompasscode STATION-19116"
+			}
+			Menu "The Umbra"
+			{
+			Option "UMBRA-12484"				"enterbasefrompasscode UMBRA-12484"
+			}
+			Menu "The Wooden Stag"
+			{
+			Option "TheStag-13865"				"enterbasefrompasscode TheStag-13865"
+			}
+		}
+	}
+	Menu "Government"
+	{
+		Menu "Battle Beasts"
+		{
+		Option "VAULT-2007"						"enterbasefrompasscode VAULT-2007"	
+		}
+		Menu "Courthouse"
+		{
+		Option "Law-18824"						"enterbasefrompasscode Law-18824"	
+		}
+//		Menu "Mastermind Inc"
+//		{
+//		Option "Crab-1591"						"enterbasefrompasscode Crab-1591"	
+//		}
+		Menu "Terran Stellar Navy"
+		{
+		Option "TSN-159"						"enterbasefrompasscode TSN-159"	
+		}
+	}
+	Menu "Industrial"
+	{
+		Menu "Boaty McSharkboat"
+		{
+		Option "SHIPPING-17038"					"enterbasefrompasscode SHIPPING-17038"	
+		}
+		Menu "Carlton Heavy Industries / XOs"
+		{
+		Option "CHI-1376"						"enterbasefrompasscode CHI-1376"	
+		}
+		Menu "Entropy Legion Hideout"
+		{
+		Option "Legion-565"						"enterbasefrompasscode Legion-565"	
+		}
+		Menu "Myzen"
+		{
+		Option "MyZen-14702"					"enterbasefrompasscode MyZen-14702"	
+		}
+		Menu "RAMANET"
+		{
+		Option "RAMA-5383"						"enterbasefrompasscode RAMA-5383"	
+		}
+		Menu "Unofficial Roleplay Sewer"
+		{
+		Option "PROFITS-770"					"enterbasefrompasscode PROFITS-770"	
+		}
+	}
+	Menu "Mixed"
+	{
+		Menu " 1 - C "
+		{	
+			Menu "Astral City District"
+			{
+			Option "CITYLANE-3311"				"enterbasefrompasscode CITYLANE-3311"
+			}		
+			Menu "Atlas Irregulars"
+			{
+			Option "Irregular-5854"				"enterbasefrompasscode Irregular-5854"
+			}
+			Menu "Atomgrad"
+			{
+			Option "RADS-4204"					"enterbasefrompasscode RADS-4204"
+			}
+			Menu "Beans n' Worms"
+			{
+			Option "beans-11224"				"enterbasefrompasscode beans-11224"
+			}
+			Menu "Block D7, 'Fortune City'"
+			{
+			Option "CYBERPUNK-14407"			"enterbasefrompasscode CYBERPUNK-14407"
+			}
+			Menu "Centerpoint"
+			{
+			Option "CENTER-22963"				"enterbasefrompasscode CENTER-22963"
+			}
+		}
+		Menu " D - K "
+		{		
+			Menu "Deep Space"
+			{
+			Option "Space-22793"				"enterbasefrompasscode Space-22793"
+			}
+			Menu "Dirigible Steamship"
+			{
+			Option "STEAM-21178"				"enterbasefrompasscode STEAM-21178"
+			}
+			Menu "Firebrand Island"
+			{
+			Option "Fortune-13524"				"enterbasefrompasscode Fortune-13524"
+			}
+			Menu "Gunsmoke Gulch"
+			{
+			Option "GUNSMOKE-4940"				"enterbasefrompasscode GUNSMOKE-4940"
+			}
+			Menu "Haven"
+			{
+			Option "Sewer-2834"					"enterbasefrompasscode Sewer-2834"
+			}
+			Menu "Imperial Resurgence"
+			{
+			Option "DROW-650"					"enterbasefrompasscode DROW-650"
+			}
+			Menu "Karen One Spaceship"
+			{
+			Option "Karen-8647"					"enterbasefrompasscode Karen-8647"
+			}
+			Menu "Kingsway"
+			{
+			Option "KINGSWAY-8672"				"enterbasefrompasscode KINGSWAY-8672"
+			}
+		}
+		Menu " L - P "
+		{
+			Menu "Legion of Valor"
+			{
+			Option "VALOR-30"					"enterbasefrompasscode VALOR-30"
+			}
+//			Menu "Mario Jumpman: The Warp Pipe"
+//			{
+//			Option "DENIMDENMIDENIM-8473"		"enterbasefrompasscode DENIMDENMIDENIM-8473"
+//			}
+			Menu "Moe Love"
+			{
+			Option "MOELOVE-6840"				"enterbasefrompasscode MOELOVE-6840"
+			}
+			Menu "Mystic Pines"
+			{
+			Option "SUMMERCAMP-21525"			"enterbasefrompasscode SUMMERCAMP-21525"
+			}
+			Menu "Nerva District Nine"
+			{
+			Option "NervaDistrict9-12381"		"enterbasefrompasscode NervaDistrict9-12381"
+			}
+			Menu "New Praetorians: Little Imperial"
+			{
+			Option "BRIX-10044"					"enterbasefrompasscode BRIX-10044"
+			}
+			Menu "Nomans Island"
+			{
+			Option "WILDERNESS-7876"			"enterbasefrompasscode WILDERNESS-7876"
+			}
+			Menu "Paragon City Free Clinic"
+			{
+			Option "MEDICAL-5918"				"enterbasefrompasscode MEDICAL-5918"
+			}
+			Menu "Paragon Civic Center"
+			{
+			Option "ticketparagon-8710"			"enterbasefrompasscode ticketparagon-8710"
+			}
+//			Menu "Paragon Underground"
+//			{
+//			Option "UNDER-20609"				"enterbasefrompasscode UNDER-20609"
+//			}
+			Menu "Peace Park"
+			{
+			Option "PEACEPARK-16417"			"enterbasefrompasscode PEACEPARK-16417"
+			}
+			Menu "Pride"
+			{
+			Option "PRIDE-6550"					"enterbasefrompasscode PRIDE-6550"
+			}
+		}
+		Menu " Q - S "
+		{
+			Menu "Resting Hills Cemetery"
+			{
+			Option "cemetery-24115"				"enterbasefrompasscode cemetery-24115"
+			}
+			Menu "Rising Sun Dojo"
+			{
+			Option "RISINGSUN-6848"				"enterbasefrompasscode RISINGSUN-6848"
+			}
+			Menu "Ritual District: City RP Space"
+			{
+			Option "RD-606"						"enterbasefrompasscode RD-606"
+			}
+			Menu "RP Urban City"
+			{
+			Option "RPCITY-1188"				"enterbasefrompasscode RPCITY-1188"
+			}
+			Menu "S.O.R.T. Space Station"
+			{
+			Option "ORBITAL-7249"				"enterbasefrompasscode ORBITAL-7249"
+			}
+			Menu "Sanctuary of the Fallen"
+			{
+			Option "SANCTUARY-10088"			"enterbasefrompasscode SANCTUARY-10088"
+			}
+			Menu "Sanctum of Shadows"
+			{
+			Option "Sanctum-2764"				"enterbasefrompasscode Sanctum-2764"
+			}
+			Menu "Sanctum Park"
+			{
+			Option "PARK-5832"					"enterbasefrompasscode PARK-5832"
+			}
+			Menu "Septimus Academy"
+			{
+			Option "SEPTIMUS-21306"				"enterbasefrompasscode SEPTIMUS-21306"
+			}
+			Menu "Stages"
+			{
+			Option "stages-13625"				"enterbasefrompasscode stages-13625"
+			}
+			Menu "Stormshadow Enclave"
+			{
+			Option "STORMSHADOW-21155"			"enterbasefrompasscode STORMSHADOW-21155"
+			}
+			Menu "Sunset Archipelago"
+			{
+			Option "SUNSET-16370"				"enterbasefrompasscode SUNSET-16370"
+			}
+		}
+		Menu " T - Z "
+		{
+			Menu "The Alpha Division"
+			{
+			Option "Alphad-1335"				"enterbasefrompasscode Alphad-1335"
+			}
+			Menu "The Block"
+			{
+			Option "BLOCK-11958"				"enterbasefrompasscode BLOCK-11958"
+			}
+			Menu "The Boomcave"
+			{
+			Option "BOOM-15920"					"enterbasefrompasscode BOOM-15920"
+			}
+			Menu "The Darkway"
+			{
+			Option "DARKWAY-10056"				"enterbasefrompasscode DARKWAY-10056"
+			}
+			Menu "The Demilich's Lair"
+			{
+			Option "UNHALLOWED-6612"			"enterbasefrompasscode UNHALLOWED-6612"
+			}
+			Menu "The Honey Hole"
+			{
+			Option "HONEYHOLE-7221"				"enterbasefrompasscode HONEYHOLE-7221"
+			}
+			Menu "The Midnight Oil"
+			{
+			Option "MIDNIGHT-8903"				"enterbasefrompasscode MIDNIGHT-8903"
+			}
+			Menu "The Moisty Maiden"
+			{
+			Option "PIRATE-16369"				"enterbasefrompasscode PIRATE-16369"
+			}
+			Menu "The Pagoda"
+			{
+			Option "GHOST-1471"					"enterbasefrompasscode GHOST-1471"
+			}
+			Menu "The Pariah Project"
+			{
+			Option "Pariah-4390"				"enterbasefrompasscode Pariah-4390"
+			}
+			Menu "The Scarlet Serpent"
+			{
+			Option "REDSNAKE-22139"				"enterbasefrompasscode REDSNAKE-22139"
+			}
+			Menu "The Shop"
+			{
+			Option "SHOP-18553"					"enterbasefrompasscode SHOP-18553"
+			}
+			Menu "The Soup Kitchen"
+			{
+			Option "SoupKitchen-8814"			"enterbasefrompasscode SoupKitchen-8814"
+			}
+			Menu "The Ultimate Cool Hideout"
+			{
+			Option "COMINGSOON-5937"			"enterbasefrompasscode COMINGSOON-5937"
+			}
+			Menu "The Upside (and Downside)"
+			{
+			Option "UPSIDE-14574"				"enterbasefrompasscode UPSIDE-14574"
+			}
+//			Menu "Valiance Housing Project"
+//			{
+//			Option "VALIANCEAPT-5979"			"enterbasefrompasscode VALIANCEAPT-5979"
+//			}
+			Menu "Waypoint"
+			{
+			Option "WAYPOINT-21771"				"enterbasefrompasscode WAYPOINT-21771"
+			}
+			Menu "Witch's House"
+			{
+			Option "BOO-17189"					"enterbasefrompasscode BOO-17189"
+			}
+			Menu "Wraith's Magus College"
+			{
+			Option "MAGUSCOLLEGE-6582"			"enterbasefrompasscode MAGUSCOLLEGE-6582"
+			}
+		}
+	}	
+	Menu "Other / Misc"
+	{
+		Menu " 1 - G "
+		{	
+			Menu "Alpha Psi 66-13"
+			{
+			Option "DIMENSION-15249"			"enterbasefrompasscode DIMENSION-15249"
+			}
+			Menu "Blackspire Correctional Facility"
+			{
+			Option "LOCKDOWN-12115"				"enterbasefrompasscode LOCKDOWN-12115"
+			}
+			Menu "Club Hourglass"
+			{
+			Option "Hourglass-2636"				"enterbasefrompasscode Hourglass-2636"
+			}
+			Menu "Erstwhile Bounties Inc."
+			{
+			Option "EBINC-12975"				"enterbasefrompasscode EBINC-12975"
+			}
+			Menu "Everlasting Community Base"
+			{
+			Option "Everlasting-8756"			"enterbasefrompasscode Everlasting-8756"
+			}
+			Menu "Freak Town"
+			{
+			Option "FreakTown-10241"			"enterbasefrompasscode FreakTown-10241"
+			}
+			Menu "Friends of Ouph"
+			{
+			Option "FOO-602"					"enterbasefrompasscode FOO-602"
+			}
+			Menu "Grannus Medical Care & Research Center"
+			{
+			Option "Grannus-10947"				"enterbasefrompasscode Grannus-10947"
+			}
+			Menu "Grove of the 6th Kingdom"
+			{
+			Option "RAVEN-3352"					"enterbasefrompasscode RAVEN-3352"
+			}
+		}
+		Menu " H - O "
+		{	
+			Menu "H.I.V.E. Island"
+			{
+			Option "BUZZ-6573"					"enterbasefrompasscode BUZZ-6573"
+			}
+//			Menu "Hall of Candle in the Darkness"
+//			{
+//			Option "CANDLES-6927"				"enterbasefrompasscode CANDLES-6927"
+//			}
+			Menu "Journey to the Center of Carl"
+			{
+			Option "VORE-11360"					"enterbasefrompasscode VORE-11360"
+			}
+			Menu "Moe Magic High"
+			{
+			Option "MMH-9328"					"enterbasefrompasscode MMH-9328"
+			}
+			Menu "The Munster Ship!"
+			{
+			Option "MUNSTER-6265"				"enterbasefrompasscode MUNSTER-6265"
+			}
+			Menu "Naraka Confinement Facility"
+			{
+			Option "NARAKA-13039"				"enterbasefrompasscode NARAKA-13039"
+			}
+			Menu "Nexus Station"
+			{
+			Option "Nexus-7777"					"enterbasefrompasscode Nexus-7777"
+			}
+			Menu "O'Flynn's"
+			{
+			Option "OFLYNNS-3072"				"enterbasefrompasscode OFLYNNS-3072"
+			}
+			Menu "Our Lady of Perpetual Sorrows"
+			{
+			Option "OURLADYOFSORROWS-11389"		"enterbasefrompasscode OURLADYOFSORROWS-11389"
+			}
+			Menu "Overkill Undersea Base"
+			{
+			Option "Overkill-2729"				"enterbasefrompasscode Overkill-2729"
+			}
+		}
+		Menu " P - S "
+		{	
+			Menu "P.E.S.T."
+			{
+			Option "PEST-2019"					"enterbasefrompasscode PEST-2019"
+			}
+			Menu "Paragon City Priori of Nation"
+			{
+			Option "PRIORI-1810"				"enterbasefrompasscode PRIORI-1810"
+			}
+			Menu "Peace Park"
+			{
+			Option "PEACEPARK-16417"			"enterbasefrompasscode PEACEPARK-16417"
+			}
+			Menu "Pocket Pillow Fort"
+			{
+			Option "PF-21618"					"enterbasefrompasscode PF-21618"
+			}
+			Menu "Port Cheddar"
+			{
+			Option "CHEDDAR-6023"				"enterbasefrompasscode CHEDDAR-6023"
+			}
+			Menu "Recluse High School & University"
+			{
+			Option "UNIVERSITY-5704"			"enterbasefrompasscode UNIVERSITY-5704"
+			}
+			Menu "Simulacrum"
+			{
+			Option "SIMULACRUM-6940"			"enterbasefrompasscode SIMULACRUM-6940"
+			}
+			Menu "Small Villain's hideout"
+			{
+			Option "Zulo-3153"					"enterbasefrompasscode Zulo-3153"
+			}
+		}
+		Menu " T "
+		{	
+			Menu "Tariq Trading Company/Library"
+			{
+			Option "TARIQ-3892"					"enterbasefrompasscode TARIQ-3892"
+			}
+			Menu "The Church of Eternal Mercy"
+			{
+			Option "MERCY-7529"					"enterbasefrompasscode MERCY-7529"
+			}
+			Menu "The Evermaze"
+			{
+			Option "EVERMAZE-8637"				"enterbasefrompasscode EVERMAZE-8637"
+			}
+			Menu "The Flesh that Hates"
+			{
+			Option "Flesh-3453"					"enterbasefrompasscode Flesh-3453"
+			}
+			Menu "The Great Temple"
+			{
+			Option "TEMPLE-20520"				"enterbasefrompasscode TEMPLE-20520"
+			}
+			Menu "The Guide"
+			{
+			Option "Guide-6145"					"enterbasefrompasscode Guide-6145"
+			}
+			Menu "The Hero Force Station"
+			{
+			Option "POWER-15800"				"enterbasefrompasscode POWER-15800"
+			}
+			Menu "The Power Girls Estate"
+			{
+			Option "Powergirls-9367"			"enterbasefrompasscode Powergirls-9367"
+			}
+			Menu "The Skeld"
+			{
+			Option "SKELD-17112"				"enterbasefrompasscode SKELD-17112"
+			}
+			Menu "The Spring Court"
+			{
+			Option "FAERIE-1451"				"enterbasefrompasscode FAERIE-1451"
+			}
+//			Menu "The Twisted Weald"
+//			{
+//			Option "Sidhe-12413"				"enterbasefrompasscode Sidhe-12413"
+//			}
+			Menu "The Willworld"
+			{
+			Option "WILLPOWER-3445"				"enterbasefrompasscode WILLPOWER-3445"
+			}
+		}
+		Menu " U - Z "
+		{	
+//			Menu "Vanguard Halo"
+//			{
+//			Option "HaloStation-8662"			"enterbasefrompasscode HaloStation-8662"
+//			}
+			Menu "Villain Lair"
+			{
+			Option "LAIR-13000"					"enterbasefrompasscode LAIR-13000"
+			}
+			Menu "Virtus Gym"
+			{
+			Option "Virtusgym-9112"				"enterbasefrompasscode Virtusgym-9112"
+			}
+			Menu "VOID"
+			{
+			Option "Void-3785"					"enterbasefrompasscode Void-3785"
+			}
+			Menu "Whitefire Council"
+			{
+			Option "Whitefire-2110"				"enterbasefrompasscode Whitefire-2110"
+			}
+			Menu "Wonderland"
+			{
+			Option "Wonderland-5598"			"enterbasefrompasscode Wonderland-5598"
+			}
+			Menu "Xenon's Base"
+			{
+			Option "SCRAPPERLOCK-1397"			"enterbasefrompasscode SCRAPPERLOCK-1397"
+			}
+		}	
+	}
+	Menu "Residential"
+	{
+		Menu " 1 - K "
+		{	
+			Menu "Backalleys"
+			{
+			Option "Street-4426"				"enterbasefrompasscode Street-4426"
+			}
+			Menu "Estrada Karma"
+			{
+			Option "KARMA-508"					"enterbasefrompasscode KARMA-508"
+			}
+			Menu "Getaways"
+			{
+			Option "GETAWAY-12177"				"enterbasefrompasscode GETAWAY-12177"
+			}
+			Menu "Halloween Building"
+			{
+			Option "555BUST-22044"				"enterbasefrompasscode 555BUST-22044"
+			}
+			Menu "Hellion Lair"
+			{
+			Option "ARSON-15069"				"enterbasefrompasscode ARSON-15069"
+			}
+			Menu "Justice Sentinels of America"
+			{
+			Option "JSAUNITED-5122"				"enterbasefrompasscode JSAUNITED-5122"
+			}
+			Menu "King's Castle Apartments"
+			{
+			Option "CASTLE-13081"				"enterbasefrompasscode CASTLE-13081"
+			}
+//			Menu "King's Court Base"
+//			{
+//			Option "CHTHONICSOLUTIONS-10041"	"enterbasefrompasscode CHTHONICSOLUTIONS-10041"
+//			}
+		}
+		Menu " L - R "
+		{	
+//			Menu "Lunata Academy Dorms"
+//			{
+//			Option "AcademyDorms-7441"			"enterbasefrompasscode AcademyDorms-7441"
+//			}
+			Menu "Luxury Heights Apartments"
+			{
+			Option "APARTMENT-5445"				"enterbasefrompasscode APARTMENT-5445"
+			}
+			Menu "Mercy Island Slums"
+			{
+			Option "Slums-11408"				"enterbasefrompasscode Slums-11408"
+			}
+			Menu "Palace Opferstein"
+			{
+			Option "CASTLE-10389"				"enterbasefrompasscode CASTLE-10389"
+			}
+			Menu "Port Oake Apartments"
+			{
+			Option "OAKES-13535"				"enterbasefrompasscode OAKES-13535"
+			}
+			Menu "Rat City"
+			{
+			Option "RatCity-2259"				"enterbasefrompasscode RatCity-2259"
+			}
+			Menu "Reilex Island"
+			{
+			Option "REILEX-11060"				"enterbasefrompasscode REILEX-11060"
+			}
+			Menu "Rooms For Rent"
+			{
+			Option "ROOMS4RENT-8284"			"enterbasefrompasscode ROOMS4RENT-8284"
+			}
+			Menu "Salamanca"
+			{
+			Option "SALAMANCA-18770"			"enterbasefrompasscode SALAMANCA-18770"
+			}
+			Menu "Scions of Everlasting"
+			{
+			Option "SCIONS-3706"				"enterbasefrompasscode SCIONS-3706"
+			}
+			Menu "Skyway City Metroplex"
+			{
+			Option "CYBERHEIGHTS-16039"			"enterbasefrompasscode CYBERHEIGHTS-16039"
+			}
+			Menu "Suzie's Beach House"
+			{
+			Option "BEACHHOUSE-16509"			"enterbasefrompasscode BEACHHOUSE-16509"
+			}
+		}
+		Menu " T - Z "
+		{	
+			Menu "The Craglows"
+			{
+			Option "CRAGLOWS-3450"				"enterbasefrompasscode CRAGLOWS-3450"
+			}
+			Menu "The Dumpster"
+			{
+			Option "JAYSHELTER-19563"			"enterbasefrompasscode JAYSHELTER-19563"
+			}
+			Menu "The Eyrie"
+			{
+			Option "EYRIE-3874"					"enterbasefrompasscode EYRIE-3874"
+			}
+			Menu "The Hideaway"
+			{
+			Option "HIDEAWAY-13103"				"enterbasefrompasscode HIDEAWAY-13103"
+			}
+			Menu "The Lion's Den"
+			{
+			Option "LEO-6594"					"enterbasefrompasscode LEO-6594"
+			}
+			Menu "The Rainy Cabin"
+			{
+			Option "rainycabin-19103"			"enterbasefrompasscode rainycabin-19103"
+			}
+//			Menu "The Sanctum"
+//			{
+//			Option "Sanctum-4729"				"enterbasefrompasscode Sanctum-4729"
+//			}
+			Menu "The Snowy Cabin"
+			{
+			Option "snowycabin-19203"			"enterbasefrompasscode snowycabin-19203"
+			}
+			Menu "The Starry Cabin"
+			{
+			Option "STARRYCABIN-16941"			"enterbasefrompasscode STARRYCABIN-16941"
+			}
+			Menu "The Wanderer's Park"
+			{
+			Option "Green-3257"					"enterbasefrompasscode Green-3257"
+			}
+			Menu "Young Gods"
+			{
+			Option "YOUNGGODS-5822"				"enterbasefrompasscode YOUNGGODS-5822"
+			}
+		}	
+	}	
+	Menu "Rural / Wilderness"
+	{
+		Menu " 1 - D "
+		{	
+			Menu "Acanthi"
+			{
+			Option "SWAMP-9126"					"enterbasefrompasscode SWAMP-9126"
+			}
+			Menu "Beach"
+			{
+			Option "BEACH-18047"				"enterbasefrompasscode BEACH-18047"
+			}
+			Menu "Barrio Libertad"
+			{
+			Option "TheDifference-12272"		"enterbasefrompasscode TheDifference-12272"
+			}
+			Menu "Cabin in the Woods"
+			{
+			Option "Cabin-8752"					"enterbasefrompasscode Cabin-8752"
+			}
+			Menu "Crash Site"
+			{
+			Option "CRASH-15210"				"enterbasefrompasscode CRASH-15210"
+			}
+			Menu "Desert Canyon"
+			{
+			Option "CANYON-4951"				"enterbasefrompasscode CANYON-4951"
+			}
+			Menu "Dojo of the Immortal White Tigers"
+			{
+			Option "DOJO-1886"					"enterbasefrompasscode DOJO-1886"
+			}
+		}
+		Menu " E - R "
+		{	
+			Menu "Isles of Pandora"
+			{
+			Option "Pandora-16260"				"enterbasefrompasscode Pandora-16260"
+			}
+//			Menu "Lunata Academy Campus"
+//			{
+//			Option "AcademyClass-8167"			"enterbasefrompasscode AcademyClass-8167"
+//			}
+			Menu "Mountain Lake"
+			{
+			Option "EXPLOREONFOOT-20176"		"enterbasefrompasscode EXPLOREONFOOT-20176"
+			}
+			Menu "Myst Haven"
+			{
+			Option "MYSTHAVEN-16373"			"enterbasefrompasscode MYSTHAVEN-16373"
+			}
+			Menu "Night Ward"
+			{
+			Option "NIGHTWARD-20509"			"enterbasefrompasscode NIGHTWARD-20509"
+			}
+			Menu "Out of Gas"
+			{
+			Option "GAS-12887"					"enterbasefrompasscode GAS-12887"
+			}
+//			Menu "Pirate Den"  Already in 'mixed'
+//			{
+//			Option "PIRATE-16369"				"enterbasefrompasscode PIRATE-16369"
+//			}
+			Menu "Rust Wastes"
+			{
+			Option "RUST-16818"					"enterbasefrompasscode RUST-16818"
+			}
+		}
+		Menu " S - Z "
+		{	
+			Menu "Sengoku Kaidan Dojo"
+			{
+			Option "KAIDAN-12275"				"enterbasefrompasscode KAIDAN-12275"
+			}
+			Menu "Summerside Pond"
+			{
+			Option "summer-19339"				"enterbasefrompasscode summer-19339"
+			}
+			Menu "The Bayou"
+			{
+			Option "BAYOU-5259"					"enterbasefrompasscode BAYOU-5259"
+			}
+			Menu "The Dark Forest"
+			{
+			Option "WOODS-13802"				"enterbasefrompasscode WOODS-13802"
+			}
+			Menu "The Grove"
+			{
+			Option "GROVE-7987"					"enterbasefrompasscode GROVE-7987"
+			}
+			Menu "The Hidden Chantry"
+			{
+			Option "Frost-5700"					"enterbasefrompasscode Frost-5700"
+			}
+			Menu "White Lotus Dojo"
+			{
+			Option "LOTUS-25534"				"enterbasefrompasscode LOTUS-25534"
+			}
+		}	
+	}	
+	Menu "SG / VG / Non-RP"
+	{
+		LockedOption
+		{
+			DisplayName "None yet!"
+			Command "Nop"
+			PowerReady "Nop"
+		}
+	}
+	Divider
+		LockedOption
+		{
+			DisplayName "Version 20221123.01 (v1)"
+			Command "Nop"
+			PowerReady "Nop"
+		}
+}
+
+Menu "tf"
+Title "Task Forces and Grouping"
+{
+	Menu "Task Forces"
+	{
+		Option "Looking For DFB" "broadcast $side $archetype $level looking for DiB!$$lfg $side $archetype $level looking for DiB!"
+		Option "Forming DFB" "lfg Forming DFB, send tell for invite$$broadcast Forming DFB, send tell for invite"
+		Option "DBD FULL" "broadcast FULL - thanks!$$lfg FULL - thanks!"
+		Option "LFG" "broadcast $side $archetype $level looking for group or TF!$$lfg $side $archetype $level looking for group or TF!"
+		Option "FULL" "broadcast FULL - thanks!$$lfg FULL - thanks!"	
+	}
+}
