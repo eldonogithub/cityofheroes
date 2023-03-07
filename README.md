@@ -7,6 +7,6 @@ Some Files for City of Heroes
 * Extract the file into your City of Heroes home directory.
 
 Three files:
-# menus.txt
-# eldon.mnu
-# README.md
+1. menus.txt
+2. eldon.mnu
+3. README.md
