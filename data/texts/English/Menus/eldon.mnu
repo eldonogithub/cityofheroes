@@ -1195,7 +1195,7 @@ Title "Task Forces and Grouping"
 	Menu "Task Forces"
 	{
 		Option "Looking For DFB" "broadcast $side $archetype $level looking for DFB!$$lfg $side $archetype $level looking for DFB!"
-		Option "Forming DFB" "lfg Forming DFB, send tell for invite$$broadcast Forming DFB, send tell for invite"
+		Option "Forming DFB" "lfg Forming $side DFB, send tell for invite$$broadcast Forming $side DFB, send tell for invite"
 		Option "DBD FULL" "broadcast FULL - thanks!$$lfg FULL - thanks!"
 		Option "LFG" "broadcast $side $archetype $level looking for group or TF!$$lfg $side $archetype $level looking for group or TF!"
 		Option "FULL" "broadcast FULL - thanks!$$lfg FULL - thanks!"	
